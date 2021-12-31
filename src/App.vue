@@ -5,7 +5,22 @@ import MeshGradient from './MeshGradient.vue';
 <template>
   <MeshGradient />
   <div class="mt-12 text-gray-500 text-center text-sm">
-    Created by <a href="https://twitter.com/JosephusPaye" target="_blank" rel="noopener" class="focus:text-gray-300 hover:text-gray-300">@JosephusPaye</a>. <a href="/credits.txt" class="focus:text-gray-300 hover:text-gray-300">Credits</a>. <a href="https://github.com/JosephusPaye/make-a-mesh" class="focus:text-gray-300 hover:text-gray-300">View Source</a>.
+    Created by
+    <a
+      href="https://twitter.com/JosephusPaye"
+      target="_blank"
+      rel="noopener"
+      class="focus:text-gray-300 hover:text-gray-300"
+      >@JosephusPaye</a
+    >.
+    <a href="/credits.txt" target="_blank" rel="noopener" class="focus:text-gray-300 hover:text-gray-300">Credits</a>.
+    <a
+      href="https://github.com/JosephusPaye/make-a-mesh"
+      target="_blank"
+      rel="noopener"
+      class="focus:text-gray-300 hover:text-gray-300"
+      >View Source</a
+    >.
   </div>
 </template>
 
