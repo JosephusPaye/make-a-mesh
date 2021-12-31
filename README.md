@@ -1,6 +1,6 @@
-# Animated Mesh Gradient Generator
+# Make a Mesh
 
-Generate and record animated mesh gradients.
+Generate animated mesh gradients and export as video. [Try it here](https://makeamesh.netlify.app).
 
 ## To-do
 
