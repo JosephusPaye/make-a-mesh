@@ -1,0 +1,8 @@
+The following made this project possible:
+
+- Stripe (https://stripe.com)
+- Kevin Hufnagl (http://kevinhufnagl.com)
+- MeshGradient.com (https://meshgradient.com)
+- Whatamesh by Jordi Enric (https://github.com/jordienr/whatamesh)
+- CCapture.js by Jaume Sanchez (https://github.com/spite/ccapture.js)
+- Vue.js by Evan You (https://github.com/vuejs/vue)
